@@ -20,7 +20,7 @@
 ## ⚙️ Аппаратная архитектура (База)
 ```text
 RadioMaster Pocket (EdgeTX + ExpressLRS 4.1.0) 
-  └─► ELRS HappyModel EP1/EP2 CRSF 
+  └─► ELRS HappyModel EP1/EP2 CRSF (или аналог на примере https://github.com/lazeyka/hoverboard/blob/main/diy_expresslrs_receiver.md)
         └─► STM32F411CEU6 Black Pill 
               └─► 2× FOC платы GD32F103RET6 (За основу взят проект https://github.com/EFeru/hoverboard-firmware-hack-FOC))
 ```
