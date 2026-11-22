@@ -167,6 +167,7 @@ RadioMaster Pocket (EdgeTX + ExpressLRS 4.1.0)
 Важный нюанс по индикации светодиода:
 В таргете HappyModel EP1/EP2 выход на светодиод статуса ELRS назначен на пин IO16 (в нашей схеме он оставлен свободным — при желании к нему можно подпаять внешний светодиод через резистор 330 Ом). Встроенный синий светодиод на плате LOLIN D1 Mini аппаратно подключен к IO2 (NRESET), поэтому он не будет показывать привычные коды мигания ELRS. Проверяйте работу приемника по появлению точки доступа Wi-Fi или значка связи C в Lua-скрипте на пульте RadioMaster Pocket.
 
+<img width="1437" height="1040" alt="ELRS for LOLIN D1 Mini V4 0 0" src="https://github.com/user-attachments/assets/a422656d-4161-4f72-9d20-97cc89f649ba" />
 ---
 
 🎮 5. Конфигурация пульта RadioMaster Pocket (ExpressLRS 4.1.0)
