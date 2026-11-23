@@ -143,6 +143,7 @@ default_envs = VARIANT_USART
 #define CTRL_TYP_SEL    FOC_CTRL
 #define CTRL_MOD_REQ    SPD_MODE
 ```
+⚡ Готовый bin файл прошивки для текущего проекта, если лень разбираться с проектом hoverboard-firmware-hack-FOC и самому компилировать [firmware.zip](https://github.com/user-attachments/files/35255220/firmware.zip)
 
 🎮 4. Конфигурация пульта и каналов (RadioMaster Pocket)
 
